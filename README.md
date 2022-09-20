@@ -1,6 +1,6 @@
 # 🖥️ Baekjoon Source Code 🖥️
 
-- 풀이한 Baekjoon 문제를 올리고 있습니다.
+- `Python`으로 풀이한 Baekjoon 문제를 올리고 있습니다.
 - 앞으로 꾸준히 업데이트하겠습니다!
 
 
