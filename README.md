@@ -6,5 +6,6 @@
 
 | 번호 | 문제 | 링크 |
 |---|:---:|---:|
+| 1260 | DFS와 BFS | [바로가기](https://www.acmicpc.net/problem/1260) |
 | 1427 | 소트인사이드 | [바로가기](https://www.acmicpc.net/problem/1427) |
 | 11051 | 이항 계수 2 | [바로가기](https://www.acmicpc.net/problem/11051) |
