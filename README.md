@@ -10,3 +10,4 @@
 | 1427 | 소트인사이드 | [바로가기](https://www.acmicpc.net/problem/1427) |
 | 1920 | 수 찾기 | [바로가기](https://www.acmicpc.net/problem/1920) |
 | 11051 | 이항 계수 2 | [바로가기](https://www.acmicpc.net/problem/11051) |
+| 11720 | 숫자의 합 | [바로가기](https://www.acmicpc.net/problem/11720) |
